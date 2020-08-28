@@ -222,7 +222,7 @@ text-shadow: 0px 2px 4px rgba(0,0,0,0.4);
 		max-width: 80%;
 	}
 	.grid li{
-		width: 40%;
+		width: 50%;
 	}
 	.grid li span.name {
 		margin-left: 2px;
