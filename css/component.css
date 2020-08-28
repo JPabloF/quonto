@@ -3,8 +3,11 @@
 	margin: 0;
 	padding: 0;
 	list-style: none;
-	position: relative;
 	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top:100px;
 }
 
 .grid li {
